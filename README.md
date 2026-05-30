@@ -1,4 +1,4 @@
-# Guide to Building a Professional Animated Website
+# Guide to Building a Professional Animated Website 
 
 To build a professional and animated website, you can use the component libraries and UI inspiration websites listed below. These resources help you create modern layouts, animations, interactive sections, and premium-looking designs.
 
