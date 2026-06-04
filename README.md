@@ -12,6 +12,7 @@ To build a professional and animated website, you can use the component librarie
 - https://dotmatrix.zzzzshawn.cloud
 - https://www.componentry.fun/docs
 - https://arturbien.github.io/balloons-js/
+- https://particle-text-eight.vercel.app
 
 These websites provide:
 - Modern UI sections
